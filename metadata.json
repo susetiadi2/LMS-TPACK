@@ -1,0 +1,6 @@
+{
+  "name": "LMS Guru Kreator TPACK",
+  "description": "LMS Pelatihan Guru: Digitalisasi Pembelajaran Berbasis TPACK dengan Model Hands-On (Learning by Doing), 15 Sesi Pembelajaran, Interactive Worksheets, Studio MPI, AI Teaching Assistant, dan Rubrik Portofolio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
